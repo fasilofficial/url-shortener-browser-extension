@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+input {
+  padding: 0.5rem;
+  padding-left: 0;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+  background-color: transparent;
+}
+button {
+  padding: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  background-color: rgb(28, 27, 27);
+  color: #fff;
+  border-radius: 5px;
+}
